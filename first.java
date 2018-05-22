@@ -10,5 +10,6 @@ public class first
 		 Sys
 	 else
 		 System.out.println("Greater Number")
+		 System.out.println("Greater Number564654")
  }
 }
