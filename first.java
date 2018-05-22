@@ -6,6 +6,7 @@ public class first
 	 System.out.println("Hello");
 	 if(i<15)
 		 System.out.println("Smaller Number")
+	 	 System.out.println("Smaller Number111")
 	 else
 		 System.out.println("Greater Number")
  }
