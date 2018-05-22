@@ -9,5 +9,6 @@ public class first
 	 	 System.out.println("Smaller Number111")
 	 else
 		 System.out.println("Greater Number")
+		 System.out.println("Greater Number564654")
  }
 }
